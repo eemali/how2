@@ -6,15 +6,15 @@ After configuring VS code, we will build and debug a simple OpenCV based video c
 
 ## Contents
 
-- [Step 0: Prerequisites](#Step-0-Prerequisites)
-- [Step 1: Install Visual Studio Code](#Step-1-Install-Visual-Studio-Code)
-- [Step 2: Install C/C++ extension for VS Code](#Step-2-Install-C/C++-extension-for-VS-Code)
-- [Step 3: Check Microsoft Visual C++ installation](#Step-3-Check-Microsoft-Visual-C++-installation)
-- [Step 4: Open project directory in VS Code](#Step-4-Open-project-directory-in-VS-Code)
-- [Step 5: Implement the application](#Step-5-Implement-the-application)
-- [Step 6: Compiler path and IntelliSense settings](#Step-6-Compiler-path-and-IntelliSense-settings)
-- [Step 7: Build the application](#Step-7-Build-the-application)
-- [Step 8: Debug the application](#Step-8-Debug-the-application)
+- [Step 0: Prerequisites](#step-0-prerequisites)
+- [Step 1: Install Visual Studio Code](#step-1-install-visual-studio-code)
+- [Step 2: Install C/C++ extension for VS Code](#step-2-install-cc-extension-for-vs-code)
+- [Step 3: Check Microsoft Visual C++ installation](#step-3-check-microsoft-visual-c-installation)
+- [Step 4: Open project directory in VS Code](#step-4-open-project-directory-in-vs-code)
+- [Step 5: Implement the application](#step-5-implement-the-application)
+- [Step 6: Compiler path and IntelliSense settings](#step-6-compiler-path-and-intellisense-settings)
+- [Step 7: Build the application](#step-7-build-the-application)
+- [Step 8: Debug the application](#step-8-debug-the-application)
 
 ## Step 0: Prerequisites
 
