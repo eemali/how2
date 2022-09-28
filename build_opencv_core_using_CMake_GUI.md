@@ -8,9 +8,9 @@
 6. Select the folder `opencv/build` as the build directory
 7. Press `Configure` button. A window pops up, letting you specify the compiler you want to use
     1. Choose one of following compiler as the generator for project
-        - Unix Makefiles
-        - MinGW Makefiles
-        - Visual Studio xx xxxx
+        - [] Unix Makefiles
+        - [] MinGW Makefiles
+        - [] Visual Studio xx xxxx
     2. Select “Use default native compilers” and press “Finish” button.
 8. Uncheck all except following
     - [x] `BUILD_SHARED_LIBS`
