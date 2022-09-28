@@ -5,14 +5,14 @@
 1. Download cmake-version-win64-x64.msi OR cmake-win32-x86.msi from <https://cmake.org/download/>
 2. Start cmake-version-win64-x64.msi OR cmake-win32-x86.msi
 3. Welcome to the CMake setup Wizzard: next
-4. End-User License Agreement: - [x] Accept and next
-5. Install options: - [x] Add CMake to the system PATH for all users, next
+4. End-User License Agreement: [X] Accept and next
+5. Install options: [X] Add CMake to the system PATH for all users, next
 6. Destination folder: C:\Program Files\CMake (default), next
 7. Ready to install CMake, Install
 
 ## Linux
 
-1. Download cmake-version-tar.gz from <https://cmake.org/download/>
+1. Download cmake-version-Linux-x86_64.sh from <https://cmake.org/download/>
 2. sudo mv cmake-3.15.1-Linux-x86_64.sh /opt
 3. cd /opt
 4. sudo bash ./cmake-3.15.1-Linux-x86_64.sh
